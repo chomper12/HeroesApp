@@ -1,5 +1,5 @@
 
 
 export const environments={
-    baseUrl:'http://oswaldo.com/api'
+    baseUrl:'http://localhost:8080'
 }
