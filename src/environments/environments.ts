@@ -1,5 +1,5 @@
 
 
 export const environments={
-    baseUrl:'https://db-1-96ze.onrender.com/'
+    baseUrl:'http://localhost:3000'
 }
